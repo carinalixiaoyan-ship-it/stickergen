@@ -1,5 +1,7 @@
 {
-  "name": "StickerGen AI",
-  "description": "Transform your photos into creative LINE-style sticker packs using Gemini 2.5 Flash.",
-  "requestFramePermissions": []
+  "name": "Oral Master 399",
+  "description": "An interactive English speaking practice app based on 399 common daily phrases, featuring AI coaching and gamified learning.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
 }
